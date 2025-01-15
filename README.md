@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=FFB4FF&height=100%&section=header&text=Hi, my name is Seung Hoon Han (Destin)&fontSize=20" />
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DestinHan)](https://github.com/anuraghazra/github-readme-stats)
