@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Seung%20Hoon%20Han%10/(Destin/)&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Seung%20Hoon%20Han&fontSize=90" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DestinHan)](https://github.com/anuraghazra/github-readme-stats)
