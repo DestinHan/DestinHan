@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-- 4th semester **Computer Programming & Analysis** student @ Seneca Polytechnic  
+- 5th semester **Computer Programming & Analysis** student @ Seneca Polytechnic (Graduate April 2026)  
 - Interested in **Backend Development**, **System Design**, and **Cloud/DevOps**  
 - Currently serving as **Marketing Coordinator @ SKC (Seneca Korean Club)**  
 - Always exploring new tools and contributing to open-source style projects  
