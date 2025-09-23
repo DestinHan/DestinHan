@@ -1,30 +1,46 @@
-<!--
-**DestinHan/DestinHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 깔끔한 헤더 배너 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=dda0dd&height=180&section=header&text=Hi%2C%20I'm%20Seung%20Hoon%20Han%20(Destin)!&fontSize=32&fontAlignY=35&desc=Computer%20Programming%20%26%20Analysis%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=55&descAlign=50" />
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 4th semester **Computer Programming & Analysis** student @ Seneca Polytechnic  
+- Interested in **Backend Development**, **System Design**, and **Cloud/DevOps**  
+- Currently serving as **Marketing Coordinator @ SKC (Seneca Korean Club)**  
+- Always exploring new tools and contributing to open-source style projects  
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=dda0dd&height=150&section=header&text=About%20Me..&fontSize=50" />
+---
 
+## Tech Stack
+**Languages**  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DestinHan)](https://github.com/anuraghazra/github-readme-stats)
+**Web & Frameworks**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-<details>
-<summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> What i learned ... 
-</summary>
-   <br>
-  
-![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+**Database & Tools**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</details>
+---
+
+## GitHub Stats
+<p align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=DestinHan&show_icons=true&theme=radical&hide_border=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DestinHan&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=dda0dd&height=120&section=footer" />
