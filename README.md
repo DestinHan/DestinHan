@@ -1,5 +1,6 @@
 <!-- 깔끔한 헤더 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=dda0dd&height=180&section=header&text=Hi%2C%20I'm%20Seung%20Hoon%20Han%20(Destin)!&fontSize=32&fontAlignY=35&desc=Computer%20Programming%20&amp;%20Analysis%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=dda0dd&height=180&section=header&text=Hi%2C%20I'm%20Seung%20Hoon%20Han%20(Destin)!&fontSize=32&fontAlignY=35" />
+
 
 ---
 
