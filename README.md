@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=dda0dd&height=120&section=header&text=Seung%20Hoon%20Han%20(Destin)&fontSize=28&fontAlignY=40" />
 
 ### About
-- 5th semester **Computer Programming &amp; Analysis** student @ Seneca Polytechnic (Graduating Apr 2026)  
+- 6th semester **Computer Programming &amp; Analysis** student @ Seneca Polytechnic (Graduating Apr 2026)  
 - Focused on **Backend Development**, **System Design**, and **Cloud/DevOps**  
 - Currently serving as **Marketing Coordinator @ SKC (Seneca Korean Club)**  
 - Email: **shhan11@myseneca.ca** · LinkedIn: [profile](https://www.linkedin.com/in/seung-hoon-han-16565b345)
