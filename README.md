@@ -2,33 +2,25 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=dda0dd&height=120&section=header&text=Seung%20Hoon%20Han%20(Destin)&fontSize=28&fontAlignY=40" />
 
 ### About
-- 6th semester **Computer Programming &amp; Analysis** student @ Seneca Polytechnic (Graduating Apr 2026)  
-- Focused on **Backend Development**, **System Design**, and **Cloud/DevOps**  
-- Currently serving as **Marketing Coordinator @ SKC (Seneca Korean Club)**  
-- Email: **shhan11@myseneca.ca** · LinkedIn: [profile](https://www.linkedin.com/in/seung-hoon-han-16565b345)
+- 6th semester Computer Programming & Analysis student at Seneca Polytechnic (Graduating Apr 2026) 
+- Focused on Data Analysis, SQL, and system troubleshooting  
+- Interested in data-driven decision making and operational support
+- Currently serving as Marketing Coordinator at SKC (Seneca Korean Club) 
+- Email: **hansh4530@gmail.com** · LinkedIn: [profile](https://www.linkedin.com/in/seung-hoon-han-16565b345)
 
 ---
 
 ### Highlights
-- Developed projects in **C++** and **Node.js** with strong emphasis on backend and system fundamentals  
-- Hands-on experience with **CI/CD (GitHub Actions)** and **Docker** for containerized pipelines  
-- Leadership and collaboration through marketing and event coordination roles
+- Experience working with structured data and SQL for analysis and validation 
+- Strong problem-solving skills through debugging and troubleshooting system issues
+- Experience collaborating in team environments and managing tasks using tools
 
 ---
 
 ### Tech Stack
-**Languages**: C++, Java, Python, JavaScript, SQL  
-**Web/Frameworks**: Node.js, Express, React, Next.js  
-**Databases**: MySQL, MongoDB  
-**DevOps/Tools**: Docker, Linux, Git/GitHub, GitHub Actions, AWS (basic)
-
----
-
-### Stats
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=DestinHan&show_icons=true&theme=default&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DestinHan&layout=compact&theme=default&hide_border=true" />
-</p>
+- Languages: SQL, Python, JavaScript, C++
+- Data & Database: MySQL, MongoDB
+- Tools: Git/GitHub, Docker, Linux, GitHub Actions, AWS (basic)
 
 ---
 
