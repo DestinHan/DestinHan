@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=dda0dd&height=120&section=header&text=Seung%20Hoon%20Han%20(Destin)&fontSize=28&fontAlignY=40" />
 
 ### About
-- Computer Programming & Analysis student at Seneca Polytechnic (Graduating Apr 2026)
+- Graduate Computer Programming & Analysis program at Seneca Polytechnic
 - Focused on **web development, backend systems, and API integration**
 - Experience building **data-driven applications with AI-based features**
 - Strong in **debugging, troubleshooting, and solving problems under pressure**
