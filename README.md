@@ -6,7 +6,7 @@
 - Focused on **web development, backend systems, and API integration**
 - Experience building **data-driven applications with AI-based features**
 - Strong in **debugging, troubleshooting, and solving problems under pressure**
-- Currently serving as Marketing Coordinator at SKC (Seneca Korean Club)
+- Served as Marketing Coordinator at SKC (Seneca Korean Club)
 - Email: **hansh4530@gmail.com** · LinkedIn: [profile](https://www.linkedin.com/in/seung-hoon-han-16565b345)
 
 ---
